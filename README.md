@@ -18,4 +18,4 @@
 
 - [ ] Comet Haley
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+[<img src="img/myImage.png">]([<img src="img/myImage.png">](http://example.com/))
