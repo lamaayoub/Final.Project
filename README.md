@@ -1,4 +1,7 @@
-# A car with a full tank of gas drives 80 miles per hour for 3 hours before running out of gas. How many miles can the car go per tank?
+## This is my Final Project
+# done by Lama Ayoub
+*Question 1*
+A car with a full tank of gas drives 80 miles per hour for 3 hours before running out of gas. How many miles can the car go per tank?
 ## A runner travels a half marathon (13.1 miles) in 3 hours. How fast was this runner going in miles per hour?
 
 
@@ -19,3 +22,9 @@
 - [ ] Comet Haley
 
 [<img src="img/myImage.png">]([<img src="img/myImage.png">](http://example.com/))
+
+# real cool heading
+#-real-cool-heading
+
+<a name="custom_anchor_name"></a>
+# some header
